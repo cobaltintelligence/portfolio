@@ -1,0 +1,60 @@
+{
+	"technologies": [
+		{
+			"key": "a",
+			"id": "galaxy",
+			"title": "Galaxy Exercise Device",
+			"subtitle": "Adaptive Exercise Device Developed for the International Space Station",
+			"description": "The Galaxy is an exercise device originally developed for astronauts aboard the international space to enable a wide range of strength training exercises in a compact, dynamic form factor.",
+			"logo": "cobalt.png",
+			"funding": 500000,
+			"valuation": 10000000,
+			"ownership": {
+
+			},
+			"employees": [
+				"peter",
+				"tyson",
+				"seann",
+				"bj",
+				"yuan",
+				"joe"
+			],
+			"website": "http://www.cobalt-intelligence.com/#tech",
+			"industries": [
+				"medicaldevices",
+				"fitnessequipment"
+			],
+			"advisors": [
+				"ken",
+				"justin",
+				"sonny",
+				"anil"
+			],
+			"tags": [
+				"fda",
+				"sports",
+				"military"
+			],
+			"progress": "external",
+			"updates": [
+				{
+					"ts": 1531612800,
+					"title": "Elite strength trainer Joe Gomes hired"
+				},
+				{
+					"ts": 1533081600,
+					"title": "Mechanical engineer Seann Convey allocated to project"
+				},
+				{
+					"ts": 1535155200,
+					"title": "National press coverage"
+				},
+				{
+					"ts": 1536019200,
+					"title": "External investment closed"
+				}
+			]
+		}
+	]
+}	

@@ -1,0 +1,26 @@
+{
+	"sourced": {
+		"title": "Sourced",
+		"subtitle": "Cobalt has been presented with this deal."
+	},
+	"research": {
+		"title": "Research",
+		"subtitle": "Cobalt is researching the project to assess viability."
+	},
+	"incubating": {
+		"title": "Incubating Internally",
+		"subtitle": "Cobalt has decided to incubate the project."
+	},
+	"fundraising": {
+		"title": "Fundraising Externally",
+		"subtitle": "Cobalt has opened the project to external funding."
+	},
+	"dismissed": {
+		"title": "Dismissed",
+		"subtitle": "Cobalt does not have plans to continue development on this project."
+	},
+	"exit": {
+		"title": "Exit",
+		"subtitle": "Cobalt has successfully exited its position."
+	}
+}
